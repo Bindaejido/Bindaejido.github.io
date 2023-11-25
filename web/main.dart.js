@@ -45227,7 +45227,7 @@ A.ahC.prototype={
 $1(a){if(a.u(0,B.P))return B.eV},
 $S:131}
 A.ahD.prototype={
-$0(){return A.X7(A.eK("https://instagram.com/bindaejido?igshid=MTk0NTkyODZkYg==",0,null))},
+$0(){return A.X7(A.eK("https://litt.ly/bindaejido?fbclid=PAAaaI_qNDaBb-j-mDBCRQg5R19i8gewo1cH8G24zWMWyVL3qlxvKJS5G-d2I",0,null))},
 $S:0}
 A.ahE.prototype={
 $1(a){if(a.u(0,B.P))return B.eV},
